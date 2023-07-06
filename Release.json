@@ -2,10 +2,11 @@
 "showOpenAd": false,
 "showInter": false,
 "showBanner": false,
-"showFakeUsers": false,
-"showRealUsers": true,
-"version": "X.X",
+"version": "1.0",
 "countForSkip": 2,
 "countForConnect": 3,
 "countForOpenAd": 2,
+"countForWeb": 4,
+"showVip": true,
+"imliveIsOn": true
 }
