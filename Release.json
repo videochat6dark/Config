@@ -1,12 +1,12 @@
 {
 "showOpenAd": false,
 "showInter": false,
-"showBanner": false,
+"showBanner": true,
 "version": "1.0",
 "countForSkip": 2,
 "countForConnect": 3,
-"countForOpenAd": 2,
-"countForWeb": 4,
-"showVip": true,
-"imliveIsOn": true
+"countForOpenAd": 5,
+"countForWeb": 400,
+"showVip": false,
+"imliveIsOn": false
 }
